@@ -5,7 +5,7 @@ import BackgroundPage from './BackgroundPage';
 function App() {
 
   return (
-  
+    // error in the code
     <>
     <BackgroundPage />
     <Routes>
