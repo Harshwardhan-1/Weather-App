@@ -2,7 +2,7 @@ import CloudsImg from './assets/clouds.png';
 import RainImg from './assets/rain.png';
 import ClearImg from './assets/clear.png';
 import DrizzleImg from './assets/drizzle.png';
-import HumidityImg from './assets/Humidity.png';
+import HumidityImg from './assets/humidity.png';
 import SnowImg from './assets/snow.png';
 import WindImg from './assets/wind.png';
 import './ImagesPage.css';
